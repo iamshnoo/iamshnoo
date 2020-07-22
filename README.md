@@ -11,20 +11,13 @@ I'm a senior year computer science undergrad from India. My interests lie at the
 
 - I am also working on the advanced collision detection library **CollDet** to develop continuous collision detection for particular use cases.
 
-<h3 align="center"> 💻 GitHub stats </h3>
-
-<div>
-  <p align="center">
-<a href="https://sourcerer.io/iamshnoo"><img src="https://sourcerer.io/icons/logo-sharing.svg" height="80px" width="80px alt="Sourcerer"></a>
-  </p>
-</div>
-
-📫 How to reach me
+👀 Me in alternate realities 👀
 ---
 
 <p align="center">
-<a href="https://twitter.com/iamshnoo" target="_blank"><img src="https://cdn4.iconfinder.com/data/icons/social-media-2146/512/2_social-512.png" height="120px" width="120px" alt="Twitter"></a>
-<a href="mailto:mukherjee.anjishnu@gmail.com?subject = Hello from your GitHub README&body = Message"><img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/147_Gmail_logo_logos-128.png" height="120px" width="120px" alt="Gmail" > </a>
+<a href="https://twitter.com/iamshnoo" target="_blank"><img src="https://cdn4.iconfinder.com/data/icons/social-media-2146/512/2_social-512.png" height="80px" width="80px" alt="Twitter"></a>
+<a href="mailto:mukherjee.anjishnu@gmail.com?subject = Hello from your GitHub README&body = Message"><img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/147_Gmail_logo_logos-128.png" height="80px" width="80px" alt="Gmail" > </a>
+<a href="https://sourcerer.io/iamshnoo"><img src="https://sourcerer.io/icons/logo-sharing.svg" height="80px" width="80px alt="Sourcerer"></a>
 </p>
 
 ⚡ Fun fact
