@@ -14,7 +14,7 @@ I'm a senior year computer science undergrad from India. My interests lie at the
 🔭 Current Work
 ---
 
-- I'm currently working with **mlpack** as part of the Google Summer of Code program.
+- I'm currently working with **mlpack** as part of the Google Summer of Code program. Blogs tracking weekly progress [here](https://iamshnoo.github.io/blog/).
 
 - I am also working on the advanced collision detection library **CollDet** to develop continuous collision detection for particular use cases.
 
@@ -25,7 +25,7 @@ I'm a senior year computer science undergrad from India. My interests lie at the
 - [Email](mukherjee.anjishnu@gmail.com)
 
 
-⚡ Fun fact:
+⚡ Fun fact
 ---
 
 I nerd out over science fiction.
