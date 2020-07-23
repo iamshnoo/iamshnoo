@@ -20,10 +20,6 @@ I'm a senior year computer science undergrad from India. My interests lie at the
 <a href="https://sourcerer.io/iamshnoo"><img src="https://sourcerer.io/icons/logo-sharing.svg" height="80px" width="80px alt="Sourcerer"></a>
 </p>
 
-⚡ Fun fact
----
-
-I nerd out over science fiction.
 
 <!--
 **iamshnoo/iamshnoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
