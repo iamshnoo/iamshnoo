@@ -12,7 +12,7 @@ I'm a senior year computer science undergrad from India. My interests lie at the
 - I am also working on the advanced collision detection library **CollDet** to develop continuous collision detection for particular use cases.
 
 <p align="center">
-<img src="iamshnoo/iamshnoo/blob/master/img/graphics_renders.gif">
+<img src="https://github.com/iamshnoo/iamshnoo/blob/master/img/graphics_renders.gif">
 </p>
 
 👀 Me in alternate realities 👀
