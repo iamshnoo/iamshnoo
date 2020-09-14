@@ -2,14 +2,14 @@
 
 <h3 align="center"> Hi there, I'm Anjishnu 👋🏻 </h3>
 
-I'm a senior year computer science undergrad from India. My interests lie at the intersection of Computer Vision and Computer Graphics, with particular interests in Generative Modelling and AI in medicine initiatives.
+I'm a senior year computer science undergrad from India. My interests lie at the intersection of Computer Vision and Computer Graphics, with particular interests in Generative Modelling and AI in medicine initiatives. Currently working on my final year thesis centered around the topic of AI & HealthCare. Feel free to shoot me an email if you are up for collaborations or have some interesting related tasks / datasets !!
 
-🔭 Current Work
+🔭 Recent Work
 ---
 
-- I'm currently working with **mlpack** as part of the Google Summer of Code program. Blogs tracking weekly progress [here](https://iamshnoo.github.io/blog/).
+- I recently worked with **mlpack** as part of the Google Summer of Code program. Blogs tracking weekly progress [here](https://iamshnoo.github.io/blog/categories#GSoC).
 
-- I am also working on the advanced collision detection library **CollDet** to develop continuous collision detection for particular use cases.
+- I also worked on the advanced collision detection library **CollDet** to develop an algorithm for calculating time of impact for continuous collision detection cases.
 
 <p align="center">
 <img src="https://github.com/iamshnoo/iamshnoo/blob/master/img/graphics_renders.gif">
