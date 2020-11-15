@@ -11,6 +11,7 @@ shoot me an email !!
 I love watching movies in the fictional/fantasy genre mostly.
 
 🎥 Movies I have watched recently :
+---
 
 <p float="left">
   <img src="https://github.com/iamshnoo/iamshnoo/blob/master/img/queens_gambit.jpg" width="300" height ="400"/>
@@ -24,6 +25,15 @@ I love watching movies in the fictional/fantasy genre mostly.
 - I recently worked with **mlpack** as part of the Google Summer of Code program. Blogs tracking weekly progress [here](https://iamshnoo.github.io/blog/categories#GSoC).
 
 - I also worked on the advanced collision detection library **CollDet** to develop an algorithm for calculating time of impact for continuous collision detection cases.
+
+Captain Jack Sparrow says Hi :)
+---
+
+<p float="left">
+  <img src="https://github.com/iamshnoo/iamshnoo/blob/master/img/a.jpg" width="300" />
+  <img src="https://github.com/iamshnoo/iamshnoo/blob/master/img/b.jpg" width="300" />
+  <img src="https://github.com/iamshnoo/iamshnoo/blob/master/img/c.jpg" width="300" />
+</p>
 
 👀 Me in alternate realities 👀
 ---
