@@ -2,7 +2,11 @@
 
 <h3 align="center"> Hi there, I'm Anjishnu 👋🏻 </h3>
 
-I'm a senior year computer science undergrad from India. My interests lie at the intersection of Computer Vision and Computer Graphics, with particular interests in Generative Modelling and AI in medicine initiatives. Currently working on my final year thesis centered around the topic of AI & HealthCare. Feel free to shoot me an email if you are up for collaborations or have some interesting related tasks / datasets !!
+I'm a senior year computer science undergrad from India. My interests lie at the
+intersection of Computer Vision and Computer Graphics, with particular interests
+in Generative Modelling and AI in medicine initiatives. Currently working on my
+final year thesis centered around the topic of AI & HealthCare. Feel free to
+shoot me an email !!
 
 🔭 Recent Work
 ---
