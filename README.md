@@ -8,16 +8,21 @@ in Generative Modelling and AI in medicine initiatives. Currently working on my
 final year thesis centered around the topic of AI & HealthCare. Feel free to
 shoot me an email !!
 
+I love watching movies in the fictional/fantasy genre mostly.
+
+🎥 Movies I have watched recently :
+
+<p float="left">
+  <img src="https://github.com/iamshnoo/iamshnoo/blob/master/img/queens_gambit.jpg" width="300" height ="400"/>
+  <img src="https://github.com/iamshnoo/iamshnoo/blob/master/img/the_imitation_game.jpg" width="300" height="400"/> 
+</p>
+
 🔭 Recent Work
 ---
 
 - I recently worked with **mlpack** as part of the Google Summer of Code program. Blogs tracking weekly progress [here](https://iamshnoo.github.io/blog/categories#GSoC).
 
 - I also worked on the advanced collision detection library **CollDet** to develop an algorithm for calculating time of impact for continuous collision detection cases.
-
-<p align="center">
-<img src="https://github.com/iamshnoo/iamshnoo/blob/master/img/graphics_renders.gif">
-</p>
 
 👀 Me in alternate realities 👀
 ---
