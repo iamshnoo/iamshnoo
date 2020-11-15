@@ -14,9 +14,9 @@ I love watching movies in the fictional/fantasy genre mostly.
 ---
 
 <p float="left">
-  <img src="https://github.com/iamshnoo/iamshnoo/blob/master/img/queens_gambit.jpg" width="300" height ="400"/>
-  <img src="https://github.com/iamshnoo/iamshnoo/blob/master/img/the_imitation_game.jpg" width="300" height="400"/>
-  <img src="https://github.com/iamshnoo/iamshnoo/blob/master/img/emily_in_paris.jpg" width="300" height="400"/>
+  <img src="https://github.com/iamshnoo/iamshnoo/blob/master/img/queens_gambit.jpg" width="275" height ="400"/>
+  <img src="https://github.com/iamshnoo/iamshnoo/blob/master/img/the_imitation_game.jpg" width="275" height="400"/>
+  <img src="https://github.com/iamshnoo/iamshnoo/blob/master/img/emily_in_paris.jpg" width="275" height="400"/>
 </p>
 
 🔭 Recent Work
@@ -30,9 +30,9 @@ Captain Jack Sparrow says Hi :)
 ---
 
 <p float="left">
-  <img src="https://github.com/iamshnoo/iamshnoo/blob/master/img/a.jpg" width="300" />
-  <img src="https://github.com/iamshnoo/iamshnoo/blob/master/img/b.jpg" width="300" />
-  <img src="https://github.com/iamshnoo/iamshnoo/blob/master/img/c.jpg" width="300" />
+  <img src="https://github.com/iamshnoo/iamshnoo/blob/master/img/a.jpg" width="275" />
+  <img src="https://github.com/iamshnoo/iamshnoo/blob/master/img/b.jpg" width="275" />
+  <img src="https://github.com/iamshnoo/iamshnoo/blob/master/img/c.jpg" width="275" />
 </p>
 
 👀 Me in alternate realities 👀
