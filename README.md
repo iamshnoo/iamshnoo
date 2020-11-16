@@ -26,15 +26,6 @@ I love watching movies in the fictional/fantasy genre mostly.
 
 - I also worked on the advanced collision detection library **CollDet** to develop an algorithm for calculating time of impact for continuous collision detection cases.
 
-Captain Jack Sparrow says Hi :)
----
-
-<p float="left">
-  <img src="https://github.com/iamshnoo/iamshnoo/blob/master/img/a.jpg" width="275" />
-  <img src="https://github.com/iamshnoo/iamshnoo/blob/master/img/b.jpg" width="275" />
-  <img src="https://github.com/iamshnoo/iamshnoo/blob/master/img/c.jpg" width="275" />
-</p>
-
 👀 Me in alternate realities 👀
 ---
 
