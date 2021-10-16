@@ -1,40 +1,76 @@
 <p align="center"> <img src="https://octodex.github.com/images/spidertocat.png" height="200px" width="200px"> </p>
 
-<h3 align="center"> Hi there, I'm Anjishnu 👋🏻 </h3>
+<h1 align="center">Hi 👋, I'm Anjishnu (shnoo)</h1>
+<h3 align="center">A computer vision enthusiast / software developer from India</h3>
 
-I'm a senior year computer science undergrad from India. My interests lie at the
-intersection of Computer Vision and Computer Graphics, with particular interests
-in Generative Modelling and AI in medicine initiatives. Currently working on my
-final year thesis centered around the topic of AI & HealthCare. Feel free to
-shoot me an email !!
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=iamshnoo&label=Profile%20views&color=0e75b6&style=flat" alt="iamshnoo" /> </p>
 
-I love watching movies in the fictional/fantasy genre mostly.
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iamshnoo" alt="iamshnoo" /></a> </p>
 
-🎥 Movies I have watched recently :
----
+<p align="left"> <a href="https://twitter.com/iamshnoo" target="blank"><img src="https://img.shields.io/twitter/follow/iamshnoo?logo=twitter&style=for-the-badge" alt="iamshnoo" /></a> </p>
 
-<p float="left">
-  <img src="https://github.com/iamshnoo/iamshnoo/blob/master/img/queens_gambit.jpg" width="275" height ="400"/>
-  <img src="https://github.com/iamshnoo/iamshnoo/blob/master/img/the_imitation_game.jpg" width="275" height="400"/>
-  <img src="https://github.com/iamshnoo/iamshnoo/blob/master/img/emily_in_paris.jpg" width="275" height="400"/>
+- 💻I have previously [worked](https://github.com/iamshnoo/mlpack-testing) with [mlpack](https://github.com/mlpack) as a
+  [Google Summer of Code](https://summerofcode.withgoogle.com/) student.
+
+  <div align="center">
+  <img src="img/mlpack-work.png" height="75%" width="75%">
+  <p></p>
+  </div>
+
+- 👨‍🏫I have also worked with the
+  [Computer Graphics and Virtual Reality Research Lab](https://cgvr.cs.uni-bremen.de/)
+  on research regarding continuous collision detection.
+
+  <div align="center">
+  <img src="img/graphics_renders.gif" height="75%" width="75%">
+  <p></p>
+  </div>
+
+- 🩺I even have a couple of [papers](https://www.researchgate.net/profile/Anjishnu-Mukherjee) with researchers from MIT and University of
+  Toronto regarding applications of deep learning methods to clinical proecdures
+  that help in early detection of cancer.
+
+- 🔭 I’m currently working on a hobby project based on
+  [movie data.](http://movienet.site/) I am curious about video understanding
+  methods and am exploring different ideas currently.
+
+- 🌱 I’m currently learning **PowerBI, Tableau, XAI, PyTorch Lightning.**
+
+- 👯 I’m looking to collaborate on **research projects (or pretty much anything) regarding explainable AI, applications of deep learning on healthcare data or anything cool :)**
+
+- 📝 I write articles on [https://iamshnoo.github.io/blog/](https://iamshnoo.github.io/blog/)
+
+- 💬 Ask me about **computer vision and NLP.**
+
+- 📫 How to reach me **mukherjee.anjishnu@gmail.com**
+
+- 😄 Pronouns: [he/him](http://pronoun.is/he)
+
+- 📄 Know about my experiences [https://www.linkedin.com/in/anjishnumukherjee/](https://www.linkedin.com/in/anjishnumukherjee/)
+
+- ⚡ Fun fact: **I am obsessed with KPop.**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/iamshnoo" target="blank"><img align="center" src="img/twitter.svg" alt="iamshnoo" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/anjishnumukherjee" target="blank"><img align="center" src="img/linked-in-alt.svg" alt="anjishnumukherjee" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/11009359" target="blank"><img align="center" src="img/stack-overflow.svg" alt="11009359" height="30" width="40" /></a>
 </p>
 
-🔭 Recent Work
----
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://jekyllrb.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-icon.svg" alt="jekyll" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://travis-ci.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/travis-ci/travis-ci-icon.svg" alt="travisci" width="40" height="40"/> </a> </p>
 
-- I recently worked with **mlpack** as part of the Google Summer of Code program. Blogs tracking weekly progress [here](https://iamshnoo.github.io/blog/categories#GSoC).
+<div align="center">
+<img src="img/readme.jpeg" height="25%" width="25%">
+<p></p>
+</div>
+<!--
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamshnoo&show_icons=true&locale=en&layout=compact" alt="iamshnoo" /></p>
+-->
 
-- I also worked on the advanced collision detection library **CollDet** to develop an algorithm for calculating time of impact for continuous collision detection cases.
-
-👀 Me in alternate realities 👀
----
-
-<p align="center">
-<a href="https://twitter.com/iamshnoo" target="_blank"><img src="https://cdn4.iconfinder.com/data/icons/social-media-2146/512/2_social-512.png" height="80px" width="80px" alt="Twitter"></a>
-<a href="mailto:mukherjee.anjishnu@gmail.com?subject = Hello from your GitHub README&body = Message"><img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/147_Gmail_logo_logos-128.png" height="80px" width="80px" alt="Gmail" > </a>
-<a href="https://sourcerer.io/iamshnoo"><img src="https://sourcerer.io/icons/logo-sharing.svg" height="80px" width="80px alt="Sourcerer"></a>
-</p>
-
+<!--
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iamshnoo&show_icons=true&locale=en" alt="iamshnoo" /></p>
+-->
 
 <!--
 **iamshnoo/iamshnoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
