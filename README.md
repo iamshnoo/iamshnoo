@@ -1,7 +1,8 @@
 <p align="center"> <img src="https://octodex.github.com/images/spidertocat.png" height="200px" width="200px"> </p>
 
 <h1 align="center">Hi 👋, I'm Anjishnu (shnoo)</h1>
-<h3 align="center">A computer vision enthusiast / software developer from India</h3>
+<h2 align="center">Check out my <a href=https://iamshnoo.github.io/ target=_blank> website !!</a></h2>
+<!-- <h3 align="center">NLP & computer vision enthusiast / software developer from India</h3> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamshnoo&label=Profile%20views&color=0e75b6&style=flat" alt="iamshnoo" /> </p>
 
@@ -10,7 +11,7 @@
 <p align="left"> <a href="https://twitter.com/iamshnoo" target="blank"><img src="https://img.shields.io/twitter/follow/iamshnoo?logo=twitter&style=for-the-badge" alt="iamshnoo" /></a> </p>
 
 - 💻I have previously [worked](https://github.com/iamshnoo/mlpack-testing) with [mlpack](https://github.com/mlpack) as a
-  [Google Summer of Code](https://summerofcode.withgoogle.com/) student.
+  [Google Summer of Code](https://summerofcode.withgoogle.com/) student. I am part of the core mlpack Contributors team.
 
   <div align="center">
   <img src="img/mlpack-work.png" height="75%" width="75%">
@@ -30,17 +31,15 @@
   Toronto regarding applications of deep learning methods to clinical proecdures
   that help in early detection of cancer.
 
-- 🔭 I’m currently working on a hobby project based on
-  [movie data.](http://movienet.site/) I am curious about video understanding
-  methods and am exploring different ideas currently.
+- 🔭 I’m currently working on understanding more about FAccT in AI. I want to work on ideas that are ethically sound and can impact people's lives positively in some way.
 
-- 🌱 I’m currently learning **PowerBI, Tableau, XAI, PyTorch Lightning.**
+- 🌱 I’m currently learning **PowerBI, Tableau, PyTorch Lightning.** (Some of these are used by me in my job everyday)
 
-- 👯 I’m looking to collaborate on **research projects (or pretty much anything) regarding explainable AI, applications of deep learning on healthcare data or anything cool :)**
+- 👯 I’m looking to collaborate on **research projects (or pretty much anything) regarding explainable AI, applications of deep learning on healthcare data, computational social science or anything cool :)**
 
 - 📝 I write articles on [https://iamshnoo.github.io/blog/](https://iamshnoo.github.io/blog/)
 
-- 💬 Ask me about **computer vision and NLP.**
+- 💬 Ask me about **computer vision and NLP.** If you are an undergraduate student, I might be able to help you in getting started with the basics depending on my prior time commitments!
 
 - 📫 How to reach me **mukherjee.anjishnu@gmail.com**
 
@@ -58,7 +57,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://jekyllrb.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-icon.svg" alt="jekyll" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://travis-ci.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/travis-ci/travis-ci-icon.svg" alt="travisci" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://jekyllrb.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-icon.svg" alt="jekyll" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://travis-ci.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/travis-ci/travis-ci-icon.svg" alt="travisci" width="40" height="40"/> </a> </p>
 
 <div align="center">
 <img src="img/readme.jpeg" height="25%" width="25%">
