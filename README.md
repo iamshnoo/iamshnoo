@@ -10,8 +10,10 @@
 
 <p align="left"> <a href="https://twitter.com/iamshnoo" target="blank"><img src="https://img.shields.io/twitter/follow/iamshnoo?logo=twitter&style=for-the-badge" alt="iamshnoo" /></a> </p>
 
-- 💻I have previously [worked](https://github.com/iamshnoo/mlpack-testing) with [mlpack](https://github.com/mlpack) as a
-  [Google Summer of Code](https://summerofcode.withgoogle.com/) student. I am part of the core mlpack Contributors team.
+- 💻I have previously [worked](https://github.com/iamshnoo/mlpack-testing)
+  with [mlpack](https://github.com/mlpack) as a
+  [Google Summer of Code](https://summerofcode.withgoogle.com/) student.
+  I am part of the core mlpack Contributors team.
 
   <div align="center">
   <img src="img/mlpack-work.png" height="75%" width="75%">
@@ -27,19 +29,21 @@
   <p></p>
   </div>
 
-- 🩺I even have a couple of [papers](https://www.researchgate.net/profile/Anjishnu-Mukherjee) with researchers from MIT and University of
-  Toronto regarding applications of deep learning methods to clinical proecdures
+- 🩺I even have a couple of
+  [papers](https://www.researchgate.net/profile/Anjishnu-Mukherjee) with
+  researchers from MIT and University of Toronto regarding applications of deep
+  learning methods to clinical proecdures
   that help in early detection of cancer.
 
-- 🔭 I’m currently working on understanding more about FAccT in AI. I want to work on ideas that are ethically sound and can impact people's lives positively in some way.
+- 🔭 I will be starting my graduate studies in Fall 2022. My current research
+  interests primarily lie in fairness, interpretability and explainability for
+  language models.
 
-- 🌱 I’m currently learning **PowerBI, Tableau, PyTorch Lightning.** (Some of these are used by me in my job everyday)
-
-- 👯 I’m looking to collaborate on **research projects (or pretty much anything) regarding explainable AI, applications of deep learning on healthcare data, computational social science or anything cool :)**
+- 👯 I’m looking to collaborate on **research projects related to XAI or anything else that is cool :)**
 
 - 📝 I write articles on [https://iamshnoo.github.io/blog/](https://iamshnoo.github.io/blog/)
 
-- 💬 Ask me about **computer vision and NLP.** If you are an undergraduate student, I might be able to help you in getting started with the basics depending on my prior time commitments!
+- 💬 Ask me about **NLP.** If you are an undergraduate student, I might be able to help you in getting started with the basics depending on my prior time commitments!
 
 - 📫 How to reach me **mukherjee.anjishnu@gmail.com**
 
