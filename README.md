@@ -1,14 +1,48 @@
-<p align="center"> <img src="https://octodex.github.com/images/spidertocat.png" height="200px" width="200px"> </p>
+<p align="center"> 
+  <img src="https://octodex.github.com/images/spidertocat.png" height="200px" width="200px"> 
+</p>
 
-<h1 align="center">Hi 👋, I'm Anjishnu (shnoo)</h1>
-<h2 align="center">Check out my <a href=https://iamshnoo.github.io/ target=_blank> website !!</a></h2>
-<!-- <h3 align="center">NLP & computer vision enthusiast / software developer from India</h3> -->
+<h1 align="center">
+  Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32">, I'm Anjishnu (shnoo)
+</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iamshnoo&label=Profile%20views&color=0e75b6&style=flat" alt="iamshnoo" /> </p>
+<h2 align="center">
+  Check out my <a href=https://iamshnoo.github.io/ target=_blank> website !!</a>
+</h2>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iamshnoo" alt="iamshnoo" /></a> </p>
+<p align="center">
+  <a href="https://twitter.com/iamshnoo" target="blank">
+    <img alt="twitter followers" title="Follow me on Twitter"src="https://img.shields.io/twitter/follow/iamshnoo?logo=twitter&style=for-the-badge" alt="iamshnoo" />
+  </a>
+  
+  <a href="https://github.com/iamshnoo?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/iamshnoo?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
+  </a>
+  
+  <!-- Star counter - https://github.com/idealclover/GitHub-Star-Counter -->
+  <a href="https://github.com/iamshnoo?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/iamshnoo"/>
+  </a>
+  
+  <a>
+    <img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=iamshnoo&label=Profile%20views&color=0e75b6&style=for-the-badge&color=lightgray" alt="iamshnoo" /> 
+  </a>
+  
+</p>
 
-<p align="left"> <a href="https://twitter.com/iamshnoo" target="blank"><img src="https://img.shields.io/twitter/follow/iamshnoo?logo=twitter&style=for-the-badge" alt="iamshnoo" /></a> </p>
+<p align="left"> 
+  <a>
+    <img src="https://github-profile-trophy.vercel.app/?username=iamshnoo&row=1&column=6&theme=onedark&no-frame=true&margin-w=75" alt="iamshnoo" />
+  </a> 
+</p>
+
+<!-- ## 🔥 Streak stats
+
+<p align="center">
+  <a>
+    <img alt="iamshnoo's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=iamshnoo&theme=onedark&hide_border=true"/>
+  </a>
+</p> -->
 
 - 💻I have previously [worked](https://github.com/iamshnoo/mlpack-testing)
   with [mlpack](https://github.com/mlpack) as a
@@ -24,10 +58,10 @@
   [Computer Graphics and Virtual Reality Research Lab](https://cgvr.cs.uni-bremen.de/)
   on research regarding continuous collision detection.
 
-  <div align="center">
+<!--   <div align="center">
   <img src="img/graphics_renders.gif" height="75%" width="75%">
   <p></p>
-  </div>
+  </div> -->
 
 - 🩺I even have a couple of
   [papers](https://www.researchgate.net/profile/Anjishnu-Mukherjee) with
@@ -39,19 +73,19 @@
   interests primarily lie in fairness, interpretability and explainability for
   language models.
 
-- 👯 I’m looking to collaborate on **research projects related to XAI or anything else that is cool :)**
+<!-- - 👯 I’m looking to collaborate on **research projects related to XAI or anything else that is cool :)** -->
 
 - 📝 I write articles on [https://iamshnoo.github.io/blog/](https://iamshnoo.github.io/blog/)
 
-- 💬 Ask me about **NLP.** If you are an undergraduate student, I might be able to help you in getting started with the basics depending on my prior time commitments!
+<!-- - 💬 Ask me about **NLP.** If you are an undergraduate student, I might be able to help you in getting started with the basics depending on my prior time commitments!
 
-- 📫 How to reach me **mukherjee.anjishnu@gmail.com**
+- 📫 How to reach me **mukherjee.anjishnu@gmail.com** -->
 
 - 😄 Pronouns: [he/him](http://pronoun.is/he)
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/anjishnumukherjee/](https://www.linkedin.com/in/anjishnumukherjee/)
+<!-- - 📄 Know about my experiences [https://www.linkedin.com/in/anjishnumukherjee/](https://www.linkedin.com/in/anjishnumukherjee/)
 
-- ⚡ Fun fact: **I am obsessed with KPop.**
+- ⚡ Fun fact: **I am obsessed with KPop.** -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
