@@ -15,9 +15,9 @@
     <img alt="twitter followers" title="Follow me on Twitter"src="https://img.shields.io/twitter/follow/iamshnoo?logo=twitter&style=for-the-badge" alt="iamshnoo" />
   </a>
   
-  <a href="https://github.com/iamshnoo?tab=followers">
+<!--   <a href="https://github.com/iamshnoo?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/iamshnoo?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
-  </a>
+  </a> -->
   
   <!-- Star counter - https://github.com/idealclover/GitHub-Star-Counter -->
   <a href="https://github.com/iamshnoo?tab=repositories&sort=stargazers">
