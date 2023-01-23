@@ -11,9 +11,9 @@
 </h2>
 
 <p align="center">
-  <a href="https://twitter.com/iamshnoo" target="blank">
+<!--   <a href="https://twitter.com/iamshnoo" target="blank">
     <img alt="twitter followers" title="Follow me on Twitter"src="https://img.shields.io/twitter/follow/iamshnoo?logo=twitter&style=for-the-badge" alt="iamshnoo" />
-  </a>
+  </a> -->
   
 <!--   <a href="https://github.com/iamshnoo?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/iamshnoo?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
