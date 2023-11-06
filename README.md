@@ -20,9 +20,9 @@
   </a> -->
   
   <!-- Star counter - https://github.com/idealclover/GitHub-Star-Counter -->
-  <a href="https://github.com/iamshnoo?tab=repositories&sort=stargazers">
+  <!--<a href="https://github.com/iamshnoo?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/iamshnoo"/>
-  </a>
+  </a>-->
   
   <a>
     <img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=iamshnoo&label=Profile%20views&color=0e75b6&style=for-the-badge&color=lightgray" alt="iamshnoo" /> 
