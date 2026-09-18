@@ -3,12 +3,16 @@
 </p>
 
 <h1 align="center">
-  Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32">, I'm Anjishnu (shnoo)
+  Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32">, I'm Anjishnu Mukherjee (shnoo)
 </h1>
 
 <h2 align="center">
-  Check out my <a href=https://iamshnoo.github.io/ target=_blank> website !!</a>
+  <a href="https://iamshnoo.github.io/">Research, publications, and CV</a>
 </h2>
+
+I am a Ph.D. candidate in Computer Science at George Mason University. I study multilingual NLP, cultural adaptation, and evaluation and mitigation of social bias in large language models and vision-language models.
+
+My [homepage](https://iamshnoo.github.io/) brings together my papers, code, datasets, and invited talks. Recent work includes [Double Trouble](https://iamshnoo.github.io/#double-trouble) (EMNLP 2026), [MAPLE](https://iamshnoo.github.io/#metadata-localization) (EMNLP 2026), and [Lost in the Tower of Babel](https://iamshnoo.github.io/#tower-of-babel) (COLM 2026).
 
 <p align="center">
 <!--   <a href="https://twitter.com/iamshnoo" target="blank">
@@ -69,9 +73,7 @@
   learning methods to clinical proecdures
   that help in early detection of cancer.
 
-- 🔭 I will be starting my graduate studies in Fall 2022. My current research
-  interests primarily lie in fairness, interpretability and explainability for
-  language models.
+- 🔭 My research examines multilingual and multicultural AI, adaptation across languages and cultures, and social bias in AI generations.
 
 <!-- - 👯 I’m looking to collaborate on **research projects related to XAI or anything else that is cool :)** -->
 
