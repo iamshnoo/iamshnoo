@@ -1,41 +1,26 @@
-<p align="center"> 
-  <img src="https://octodex.github.com/images/spidertocat.png" height="200px" width="200px"> 
+<p align="center">
+  <img src="https://octodex.github.com/images/spidertocat.png" height="200" width="200" alt="Spidertocat">
 </p>
 
 <h1 align="center">
-  Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32">, I'm Anjishnu Mukherjee (shnoo)
+  Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32" alt="waving hand">, I'm Anjishnu Mukherjee (shnoo)
 </h1>
-
-<h2 align="center">
-  <a href="https://iamshnoo.github.io/">Research, publications, and CV</a>
-</h2>
 
 <p align="center">PhD candidate at George Mason University · multilingual and multicultural NLP · LLMs · low-resource languages · bias and fairness</p>
 
 <p align="center">
-<!--   <a href="https://twitter.com/iamshnoo" target="blank">
-    <img alt="twitter followers" title="Follow me on Twitter"src="https://img.shields.io/twitter/follow/iamshnoo?logo=twitter&style=for-the-badge" alt="iamshnoo" />
-  </a> -->
-  
-<!--   <a href="https://github.com/iamshnoo?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/iamshnoo?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
-  </a> -->
-  
-  <!-- Star counter - https://github.com/idealclover/GitHub-Star-Counter -->
-  <!--<a href="https://github.com/iamshnoo?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/iamshnoo"/>
-  </a>-->
-  
-  <a>
-    <img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=iamshnoo&label=Profile%20views&color=0e75b6&style=for-the-badge&color=lightgray" alt="iamshnoo" /> 
-  </a>
-  
+<a href="https://iamshnoo.github.io/"><img src="https://img.shields.io/badge/Website-2f5f99?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"></a>
+<a href="https://scholar.google.com/citations?user=3849YpIAAAAJ&hl=en"><img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar"></a>
+<a href="https://www.semanticscholar.org/author/2125631153"><img src="https://img.shields.io/badge/Semantic%20Scholar-1857B6?style=for-the-badge&logo=semanticscholar&logoColor=white" alt="Semantic Scholar"></a>
+<a href="https://huggingface.co/iamshnoo"><img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"></a>
+<a href="https://orcid.org/0000-0003-4012-8466"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID"></a>
+<a href="https://linkedin.com/in/anjishnumukherjee"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0yMC40NSAyMC40NWgtMy41NnYtNS41N2MwLTEuMzMtLjAyLTMuMDQtMS44NS0zLjA0LTEuODUgMC0yLjE0IDEuNDUtMi4xNCAyLjk0djUuNjdIOS4zNVY5aDMuNDF2MS41NmguMDVjLjQ4LS45IDEuNjQtMS44NSAzLjM3LTEuODUgMy42IDAgNC4yNyAyLjM3IDQuMjcgNS40NnY2LjI4ek01LjM0IDcuNDNhMi4wNiAyLjA2IDAgMSAxIDAtNC4xMyAyLjA2IDIuMDYgMCAwIDEgMCA0LjEzek03LjEyIDIwLjQ1SDMuNTZWOWgzLjU2djExLjQ1ek0yMi4yMiAwSDEuNzdDLjc5IDAgMCAuNzcgMCAxLjczdjIwLjU0QzAgMjMuMjMuNzkgMjQgMS43NyAyNGgyMC40NWMuOTggMCAxLjc4LS43NyAxLjc4LTEuNzNWMS43M0MyNCAuNzcgMjMuMiAwIDIyLjIyIDB6Ii8%2BPC9zdmc%2BCg%3D%3D&logoColor=white" alt="LinkedIn"></a>
+<a href="https://x.com/iamshnoo"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
+<a href="https://www.youtube.com/@iamshnoo"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
 </p>
 
-<p align="left"> 
-  <a>
-    <img src="https://github-profile-trophy.vercel.app/?username=iamshnoo&row=1&column=6&theme=onedark&no-frame=true&margin-w=75" alt="iamshnoo" />
-  </a> 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=iamshnoo&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views">
 </p>
 
 <h3 align="center">📚 Some recent papers</h3>
@@ -96,93 +81,17 @@
 
 <p align="center"><sub>All papers on <a href="https://scholar.google.com/citations?user=3849YpIAAAAJ&hl=en">Google Scholar</a> · <a href="https://www.semanticscholar.org/author/2125631153">Semantic Scholar</a> · <a href="https://aclanthology.org/people/anjishnu-mukherjee/">ACL Anthology</a> · <a href="https://dblp.org/pid/339/6660">DBLP</a> · datasets and models on <a href="https://huggingface.co/iamshnoo">🤗 Hugging Face</a></sub></p>
 
-<!-- ## 🔥 Streak stats
+- 🔭 My research is on multilingual and multicultural LLMs, low-resource languages, and bias and fairness in NLP.
+- 💻 Before my PhD, I was a [Google Summer of Code](https://summerofcode.withgoogle.com/) student with [mlpack](https://github.com/mlpack) and joined its core contributors team ([mlpack 4, JOSS 2023](https://joss.theoj.org/papers/10.21105/joss.05026)).
+- 📝 All my papers, talks, and CV are on [my homepage](https://iamshnoo.github.io/).
+- 😄 Pronouns: he/him
+
+<h3 align="center">🛠️ Tools I use</h3>
 
 <p align="center">
-  <a>
-    <img alt="iamshnoo's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=iamshnoo&theme=onedark&hide_border=true"/>
-  </a>
-</p> -->
-
-- 💻I have previously [worked](https://github.com/iamshnoo/mlpack-testing)
-  with [mlpack](https://github.com/mlpack) as a
-  [Google Summer of Code](https://summerofcode.withgoogle.com/) student.
-  I am part of the core mlpack Contributors team.
-
-  <div align="center">
-  <img src="img/mlpack-work.png" height="75%" width="75%">
-  <p></p>
-  </div>
-
-- 👨‍🏫I have also worked with the
-  [Computer Graphics and Virtual Reality Research Lab](https://cgvr.cs.uni-bremen.de/)
-  on research regarding continuous collision detection.
-
-<!--   <div align="center">
-  <img src="img/graphics_renders.gif" height="75%" width="75%">
-  <p></p>
-  </div> -->
-
-- 🩺I even have a couple of
-  [papers](https://www.researchgate.net/profile/Anjishnu-Mukherjee) with
-  researchers from MIT and University of Toronto regarding applications of deep
-  learning methods to clinical procedures
-  that help in early detection of cancer.
-
-- 🔭 My research is on multilingual and multicultural LLMs, low-resource languages, and bias and fairness in NLP.
-
-<!-- - 👯 I’m looking to collaborate on **research projects related to XAI or anything else that is cool :)** -->
-
-- 📝 I write articles on [https://iamshnoo.github.io/blog/](https://iamshnoo.github.io/blog/)
-
-<!-- - 💬 Ask me about **NLP.** If you are an undergraduate student, I might be able to help you in getting started with the basics depending on my prior time commitments!
-
-- 📫 How to reach me **mukherjee.anjishnu@gmail.com** -->
-
-- 😄 Pronouns: [he/him](http://pronoun.is/he)
-
-<!-- - 📄 Know about my experiences [https://www.linkedin.com/in/anjishnumukherjee/](https://www.linkedin.com/in/anjishnumukherjee/)
-
-- ⚡ Fun fact: **I am obsessed with KPop.** -->
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/iamshnoo" target="blank"><img align="center" src="img/twitter.svg" alt="iamshnoo" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/anjishnumukherjee" target="blank"><img align="center" src="img/linked-in-alt.svg" alt="anjishnumukherjee" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/11009359" target="blank"><img align="center" src="img/stack-overflow.svg" alt="11009359" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-<a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
-<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
-<a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-<a href="https://pytorch.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a>
-<a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>
+  <img src="https://skillicons.dev/icons?i=py,pytorch,cpp,git,latex,linux,vscode&theme=dark" alt="Python, PyTorch, C++, Git, LaTeX, Linux, VS Code">
 </p>
 
 <div align="center">
-<img src="img/readme.jpeg" height="25%" width="25%">
-<p></p>
+<img src="img/readme.jpeg" width="25%" alt="Made with love by @iamshnoo">
 </div>
-<!--
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamshnoo&show_icons=true&locale=en&layout=compact" alt="iamshnoo" /></p>
--->
-
-<!--
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iamshnoo&show_icons=true&locale=en" alt="iamshnoo" /></p>
--->
-
-<!--
-**iamshnoo/iamshnoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
