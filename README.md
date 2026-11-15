@@ -1,6 +1,6 @@
 # Anjishnu Mukherjee (shnoo)
 
-PhD candidate at George Mason University studying multilingual and multicultural LLMs: pretraining data, cultural knowledge, and social bias.
+PhD candidate at George Mason University. Multilingual and multicultural NLP, LLMs, low-resource languages, bias and fairness.
 
 My [homepage](https://iamshnoo.github.io/) has my papers, code, datasets, talks, and CV.
 
