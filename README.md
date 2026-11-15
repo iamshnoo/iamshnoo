@@ -38,7 +38,7 @@
   </a> 
 </p>
 
-<h3 align="center">📚 Papers I led</h3>
+<h3 align="center">📚 Some recent papers</h3>
 
 <table>
 <tr>
